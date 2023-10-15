@@ -1,0 +1,4 @@
+Version 16:
+Addressed pylint warnings related to pygame 'init', 'K_LEFT', 'K_RIGHT', and 'K_UP' members.
+Added inline comments to suppress these warnings.
+------------------------------------------------------
